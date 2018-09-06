@@ -1,7 +1,8 @@
 #/bin/bsh
 
+#this is a conlicting comment 
 # You will change this line later
-eco "This script hs typs. Pleez fix them."
+ehco "This script hs typs. Pleez fix them."
 # You will also change this line later
 
 echo "Positive integers from 005 to 100:"
