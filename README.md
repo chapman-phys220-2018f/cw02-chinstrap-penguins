@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Natanael, Alley, Jessica**
 
 ## Specification
 
@@ -16,9 +16,9 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+We learned how to clone, commit changes, and collaboratively write/rewrite script.
 
-**CHANGEME**
+**Natanael, Alley, Jessica**
 
 ## Honor Pledge
 
@@ -27,6 +27,6 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
-Signed,
+Signed, Natanael, Alley, Jessica
 
 **YOURNAMES**
